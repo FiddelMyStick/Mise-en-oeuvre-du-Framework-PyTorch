@@ -131,5 +131,5 @@ The notebook works on CPU but will automatically use CUDA if available.
 
 ## Author
 
-* **Name :** <Bounjoume Oussama>
+* **Name :** Bounjoume Oussama
 * **Contact :** <bounjoum.noujoum@gmail.com>
